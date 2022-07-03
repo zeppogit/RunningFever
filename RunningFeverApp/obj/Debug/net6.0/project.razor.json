@@ -16298,13 +16298,33 @@
   "RootNamespace": "RunningFeverApp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\RunningFever\\RunningFeverApp\\Views\\Run\\Create.cshtml",
+      "TargetPath": "Views\\Run\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\RunningFever\\RunningFeverApp\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\RunningFever\\RunningFeverApp\\Views\\Run\\Edit.cshtml",
+      "TargetPath": "Views\\Run\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\RunningFever\\RunningFeverApp\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\RunningFever\\RunningFeverApp\\Views\\Run\\Index.cshtml",
+      "TargetPath": "Views\\Run\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\RunningFever\\RunningFeverApp\\Views\\Run\\Delete.cshtml",
+      "TargetPath": "Views\\Run\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16325,6 +16345,11 @@
     {
       "FilePath": "c:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\RunningFever\\RunningFeverApp\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\RunningFever\\RunningFeverApp\\Views\\Run\\Details.cshtml",
+      "TargetPath": "Views\\Run\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
