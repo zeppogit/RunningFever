@@ -34,5 +34,7 @@ Just a place to note the days I jog, the route I took, and the distance, along w
 
 √ - Visualize data in a graph, chart, or other visual representation of data (database data displayed in rows and columns on page) 
 
+√ - Use a LINQ query to retrieve info from a data structure such as a list or an array (or from a file).   (Controllers using LINQ to retrieve from database)
 
+√ - Create a list or dictionary, populate it with values, retrieve at least one value and use it. (create IEnumerable model, and iterate with foreach for display use)
 	
