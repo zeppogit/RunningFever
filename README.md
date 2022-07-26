@@ -21,7 +21,7 @@ Just a place to note the days I jog, the route I took, and the distance, along w
 - Clone the repo or download zip file and unzip
 - Open the the RunningFeverRepo folder in Visual Studio Code
 - You may get a prompt to restore dependencies that refer to the C# for VS Code by OmniSharp extension-- if so, click restore
-- Open the terminal in VS Code and navigate to the app folder:
+- Open the terminal in VS Code and navigate to the app folder, e.g.:
                  cd RunningFever\RunningFeverApp
 - Next in terminal type 'dotnet run' without the quotes and hit Enter
 - Follow instructions and hit ctrl key while clicking on one of the provided links to load web app into a browser
