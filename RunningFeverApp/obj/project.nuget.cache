@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2p7ZEFu02uqfD3POQRJtVOaeyxYHcJNRLxxJAThefnIt+0o78Xg7eejtO8oRl3lfkhdlBaJiFPH/krgOmLZZ6A==",
+  "dgSpecHash": "8jaKRQjx5sI28rUkNw+w71qAG7fZON5ne6K4v/itDm4PFmO9cNkAZz6EvCQjE+CAxlmm3kTIWiFhX4zbwMaxoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\RunningFever\\RunningFeverApp\\RunningFeverApp.csproj",
+  "projectFilePath": "C:\\Users\\Tech Louisville\\source\\repos\\RunningFeverRepo\\runningfever\\runningfeverapp\\RunningFeverApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tech Louisville\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tech Louisville\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
